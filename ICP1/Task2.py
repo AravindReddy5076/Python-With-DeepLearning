@@ -1,4 +1,8 @@
-s = input("Enter a sentence:")
-output = s.replace('python', 'pythons')
+string1 = input("Enter any string:")
 
-print(output)
+s_list = string1[2:]
+
+r_string = s_list[::-1]
+print(r_string)
+
+print()
