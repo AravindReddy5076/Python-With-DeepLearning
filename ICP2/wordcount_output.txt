@@ -1,0 +1,4 @@
+Python: 2
+Course: 4
+Deep: 2
+Learning: 2

@@ -1,0 +1,7 @@
+Python: 2
+Course: 2
+Deep: 2
+Learning: 2
+with: 1
+Web: 3
+Development: 3
